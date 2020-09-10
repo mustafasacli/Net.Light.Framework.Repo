@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Net.Light.Framework.Entity</name>
+    </assembly>
+    <members>
+        <member name="M:Net.Light.Framework.Entity.Base.BaseBO.#ctor">
+            <summary>
+            BaseBO Ctor.
+            </summary>
+        </member>
+        <member name="P:Net.Light.Framework.Entity.Base.BaseBO.Table">
+            <summary>
+            Gets Table Object
+            </summary>
+        </member>
+        <member name="P:Net.Light.Framework.Entity.Base.BaseBO.ChangeSetCount">
+            <summary>
+            Gets Count of Changed Property.
+            </summary>
+        </member>
+        <member name="M:Net.Light.Framework.Entity.Base.BaseBO.IsPropertyChanged(System.String)">
+            <summary>
+            Returns true if Value of Property with given name changes, return true; else returns false.
+            </summary>
+            <param name="propName">Property Name</param>
+            <returns>Returns bool object.</returns>
+        </member>
+        <member name="P:Net.Light.Framework.Entity.Base.TableObject.TableName">
+            <summary>
+            Gets, Sets Table Name.
+            </summary>
+        </member>
+        <member name="P:Net.Light.Framework.Entity.Base.TableObject.IdCol">
+            <summary>
+            Gets, Sets IdColumn Nameç
+            </summary>
+        </member>
+        <member name="P:Net.Light.Framework.Entity.QueryBuilding.IQueryBuilder.Properties">
+            <summary>
+            Gets Property contains parameter(s).
+            </summary>
+        </member>
+        <member name="P:Net.Light.Framework.Entity.QueryBuilding.IQueryBuilder.QueryString">
+            <summary>
+            Gets Sql Query.
+            </summary>
+        </member>
+        <member name="M:Net.Light.Framework.Entity.QueryBuilding.QueryBuilder.#ctor(Net.Light.Framework.Entity.Base.BaseBO)">
+            <summary>
+            Create a QueryBuilder with given object and 
+            SqlServer ConnetionTypes and Select QueryTypes.
+            </summary>
+            <param name="queryObject">An object inherits BaseBO object.</param>
+        </member>
+        <member name="M:Net.Light.Framework.Entity.QueryBuilding.QueryBuilder.#ctor(Net.Light.Framework.Entity.QueryBuilding.QueryTypes,Net.Light.Framework.Entity.Base.BaseBO)">
+            <summary>
+            Create a QueryBuilder with given object and 
+            querytype and SqlServer ConnetionTypes.
+            </summary>
+            <param name="queryType">Query Types of Query Builder.</param>
+            <param name="queryObject">An object inherits BaseBO object.</param>
+        </member>
+        <member name="M:Net.Light.Framework.Entity.QueryBuilding.QueryBuilder.#ctor(Net.Light.Framework.Base.ConnectionTypes,Net.Light.Framework.Entity.QueryBuilding.QueryTypes,Net.Light.Framework.Entity.Base.BaseBO)">
+            <summary>
+            Create a QueryBuilder with given object and 
+            querytype and connetiontypes.
+            </summary>
+            <param name="ConnType">Connetion Types of Query Builder.</param>
+            <param name="queryType">Query Types of Query Builder.</param>
+            <param name="queryObject">An object inherits IBaseBO interface.</param>
+        </member>
+        <member name="P:Net.Light.Framework.Entity.QueryBuilding.QueryBuilder.Properties">
+            <summary>
+            Gets Query Parameters of QueryBuilder.
+            </summary>
+        </member>
+        <member name="P:Net.Light.Framework.Entity.QueryBuilding.QueryBuilder.QueryString">
+            <summary>
+            Returns Query String of QueryBuilder.
+            </summary>
+        </member>
+        <member name="M:Net.Light.Framework.Entity.QueryBuilding.QueryBuilder.GetQueryString">
+            <summary>
+            Returns Query String.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Net.Light.Framework.Entity.QueryBuilding.QueryBuilder.QueryFormat(Net.Light.Framework.Entity.QueryBuilding.QueryTypes)">
+            <summary>
+            Returns Format of Query according to QueryType.
+            </summary>
+            <param name="queryType"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Net.Light.Framework.Entity.QueryBuilding.QueryBuilder.getCompleteTableName">
+            <summary>
+            Returns Table Name with prefix and suffix.
+            </summary>
+            <returns> Returns Table Name with prefix and suffix. </returns>
+        </member>
+        <member name="M:Net.Light.Framework.Entity.QueryBuilding.QueryBuilder.GetFirstPart">
+            <summary>
+            Returns Second Part of Query format;
+            for Select  Or Delete --> ""
+            for Insert --> Table({0})
+            for Update Set Column=@Column
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Net.Light.Framework.Entity.QueryBuilding.QueryBuilder.getSecondPart">
+            <summary>
+            Returns Second Part of Query format;
+            for Select --> ""
+            for Insert --> Values({0})
+            for Update Or Delete Where IdColumn=@IdColumn
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Net.Light.Framework.Entity.QueryBuilding.QueryBuilder.GetParameterPrefix">
+            <summary>
+            Returns Prefix for parameters according to Connection Type.
+            </summary>
+            <returns> Returns Prefix for parameters according to Connection Type.</returns>
+        </member>
+        <member name="M:Net.Light.Framework.Entity.QueryBuilding.QueryBuilder.GetPrefix">
+            <summary>
+            Returns Prefix for columns and tables according to Connection Type.
+            </summary>
+            <returns> Returns Prefix for columns and tables according to Connection Type.</returns>
+        </member>
+        <member name="M:Net.Light.Framework.Entity.QueryBuilding.QueryBuilder.GetSuffix">
+            <summary>
+            Returns Suffix for columns and tables according to Connection Type.
+            </summary>
+            <returns>Returns Suffix for columns and tables according to Connection Type.</returns>
+        </member>
+        <member name="M:Net.Light.Framework.Entity.QueryBuilding.QueryBuilder.GetIdentityInsert">
+            <summary>
+            Returns GetIdentity query part of InsertAndGetId.
+            </summary>
+            <returns> Returns GetIdentity query part of InsertAndGetId. </returns>
+        </member>
+        <member name="M:Net.Light.Framework.Entity.QueryBuilding.QueryBuilder.ToString">
+            <summary>
+            Returns Query String of QueryBuilder.
+            </summary>
+            <returns>Returns Query String of QueryBuilder.</returns>
+        </member>
+    </members>
+</doc>

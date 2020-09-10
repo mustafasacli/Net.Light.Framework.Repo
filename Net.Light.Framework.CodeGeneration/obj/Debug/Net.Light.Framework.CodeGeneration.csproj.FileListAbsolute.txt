@@ -1,0 +1,7 @@
+E:\Projects\Net.Light.Framework\00_Rep\Net.Light.Framework.CodeGeneration\obj\Debug\Net.Light.Framework.CodeGeneration.csprojResolveAssemblyReference.cache
+E:\Projects\Net.Light.Framework\00_Rep\Net.Light.Framework.CodeGeneration\obj\Debug\Net.Light.Framework.CodeGeneration.Properties.Resources.resources
+E:\Projects\Net.Light.Framework\00_Rep\Net.Light.Framework.CodeGeneration\obj\Debug\Net.Light.Framework.CodeGeneration.csproj.GenerateResource.Cache
+E:\Projects\Git_Projects\Net.Light.Framework.Repo\Net.Light.Framework.CodeGeneration\obj\Debug\Net.Light.Framework.CodeGeneration.csprojAssemblyReference.cache
+E:\Projects\Git_Projects\Net.Light.Framework.Repo\Net.Light.Framework.CodeGeneration\obj\Debug\Net.Light.Framework.CodeGeneration.Properties.Resources.resources
+E:\Projects\Git_Projects\Net.Light.Framework.Repo\Net.Light.Framework.CodeGeneration\obj\Debug\Net.Light.Framework.CodeGeneration.csproj.GenerateResource.cache
+E:\Projects\Git_Projects\Net.Light.Framework.Repo\Net.Light.Framework.CodeGeneration\obj\Debug\Net.Light.Framework.CodeGeneration.csproj.CoreCompileInputs.cache

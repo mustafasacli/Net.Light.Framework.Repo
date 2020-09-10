@@ -1,0 +1,3 @@
+E:\Projects\Net.Light.Framework\00_Rep\Net.Light.Framework.Logic\obj\Debug\Net.Light.Framework.Logic.csprojResolveAssemblyReference.cache
+E:\Projects\Git_Projects\Net.Light.Framework.Repo\Net.Light.Framework.Logic\obj\Debug\Net.Light.Framework.Logic.csprojAssemblyReference.cache
+E:\Projects\Git_Projects\Net.Light.Framework.Repo\Net.Light.Framework.Logic\obj\Debug\Net.Light.Framework.Logic.csproj.CoreCompileInputs.cache

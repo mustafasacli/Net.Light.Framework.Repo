@@ -1,0 +1,7 @@
+E:\Projects\Net.Light.Framework\00_Rep\Net.Light.Framework.ConnectionStringBuilding\obj\Debug\Net.Light.Framework.ConnectionStringBuilding.csprojResolveAssemblyReference.cache
+E:\Projects\Net.Light.Framework\00_Rep\Net.Light.Framework.ConnectionStringBuilding\obj\Debug\Net.Light.Framework.ConnectionStringBuilding.Properties.Resources.resources
+E:\Projects\Net.Light.Framework\00_Rep\Net.Light.Framework.ConnectionStringBuilding\obj\Debug\Net.Light.Framework.ConnectionStringBuilding.csproj.GenerateResource.Cache
+E:\Projects\Git_Projects\Net.Light.Framework.Repo\Net.Light.Framework.ConnectionStringBuilding\obj\Debug\Net.Light.Framework.ConnectionStringBuilding.csprojAssemblyReference.cache
+E:\Projects\Git_Projects\Net.Light.Framework.Repo\Net.Light.Framework.ConnectionStringBuilding\obj\Debug\Net.Light.Framework.ConnectionStringBuilding.Properties.Resources.resources
+E:\Projects\Git_Projects\Net.Light.Framework.Repo\Net.Light.Framework.ConnectionStringBuilding\obj\Debug\Net.Light.Framework.ConnectionStringBuilding.csproj.GenerateResource.cache
+E:\Projects\Git_Projects\Net.Light.Framework.Repo\Net.Light.Framework.ConnectionStringBuilding\obj\Debug\Net.Light.Framework.ConnectionStringBuilding.csproj.CoreCompileInputs.cache

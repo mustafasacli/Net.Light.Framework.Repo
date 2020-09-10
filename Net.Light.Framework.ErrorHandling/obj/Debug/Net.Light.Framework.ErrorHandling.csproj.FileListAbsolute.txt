@@ -1,0 +1,2 @@
+E:\Projects\Net.Light.Framework\00_Rep\Net.Light.Framework.ErrorHandling\obj\Debug\Net.Light.Framework.ErrorHandling.csprojResolveAssemblyReference.cache
+E:\Projects\Git_Projects\Net.Light.Framework.Repo\Net.Light.Framework.ErrorHandling\obj\Debug\Net.Light.Framework.ErrorHandling.csproj.CoreCompileInputs.cache

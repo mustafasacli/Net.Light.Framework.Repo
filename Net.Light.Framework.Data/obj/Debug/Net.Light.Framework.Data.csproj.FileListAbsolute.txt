@@ -1,0 +1,10 @@
+E:\Projects\Net.Light.Framework\00_Rep\Net.Light.Framework.Data\bin\Debug\Net.Light.Framework.Base.dll
+E:\Projects\Net.Light.Framework\00_Rep\Net.Light.Framework.Data\bin\Debug\Net.Light.Framework.Base.pdb
+E:\Projects\Net.Light.Framework\00_Rep\Net.Light.Framework.Data\bin\Debug\policy.2.0.Npgsql.config
+E:\Projects\Net.Light.Framework\00_Rep\Net.Light.Framework.Data\obj\Debug\Net.Light.Framework.Data.csprojResolveAssemblyReference.cache
+E:\Projects\Net.Light.Framework\00_Rep\Net.Light.Framework.Data\obj\Debug\Net.Light.Framework.Data.dll
+E:\Projects\Net.Light.Framework\00_Rep\Net.Light.Framework.Data\obj\Debug\Net.Light.Framework.Data.pdb
+E:\Projects\Git_Projects\Net.Light.Framework.Repo\Net.Light.Framework.Data\obj\Debug\Net.Light.Framework.Data.csprojAssemblyReference.cache
+E:\Projects\Git_Projects\Net.Light.Framework.Repo\Net.Light.Framework.Data\obj\Debug\Net.Light.Framework.Data.csproj.CoreCompileInputs.cache
+E:\Projects\Git_Projects\Net.Light.Framework.Repo\Net.Light.Framework.Data\obj\Debug\Net.Light.Framework.Data.dll
+E:\Projects\Git_Projects\Net.Light.Framework.Repo\Net.Light.Framework.Data\obj\Debug\Net.Light.Framework.Data.pdb

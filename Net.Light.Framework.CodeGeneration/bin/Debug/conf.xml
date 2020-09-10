@@ -1,0 +1,43 @@
+<app>
+  <app-conn-settings>
+    <connectiontypes>
+      <connectiontype>
+        <name>MariaDb</name>
+        <connectionstring>Connection string Of MariaDb Connection Type</connectionstring>
+      </connectiontype>
+      <connectiontype>
+        <name>MySQL</name>
+        <connectionstring>Connection string Of MySQL Connection Type</connectionstring>
+      </connectiontype>
+      <connectiontype>
+        <name>Odbc</name>
+        <connectionstring>Connection string Of Odbc Connection Type</connectionstring>
+      </connectiontype>
+      <connectiontype>
+        <name>Oledb</name>
+        <connectionstring>Connection string Of Oledb Connection Type</connectionstring>
+      </connectiontype>
+      <connectiontype>
+        <name>Oracle</name>
+        <connectionstring>Connection string Of Oracle Connection Type</connectionstring>
+      </connectiontype>
+      <connectiontype>
+        <name>PostgreSQL</name>
+        <connectionstring>Connection string Of PostgreSQL Connection Type</connectionstring>
+      </connectiontype>
+      <connectiontype>
+        <name>SQLite</name>
+        <connectionstring>Data Source=E:\Projects\BookmarkStocker\Bookmarks.sdf;Password=mybookmarks;</connectionstring>
+      </connectiontype>
+      <connectiontype>
+        <name>SqlServer</name>
+        <connectionstring>Server=KRK; Initial Catalog=NorthWind;User Id=sa; Password=123123;</connectionstring>
+      </connectiontype>
+      <connectiontype>
+        <name>SqlServerCe</name>
+        <connectionstring>Data Source=E:\Projects\BookmarkStocker\Bookmarks.sdf;Password=mybookmarks;</connectionstring>
+      </connectiontype>
+    </connectiontypes>
+  </app-conn-settings>
+  <app-lang>tr-TR</app-lang>
+</app>

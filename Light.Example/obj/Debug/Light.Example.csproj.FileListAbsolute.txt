@@ -1,0 +1,16 @@
+E:\Projects\Net.Light.Framework\00_Rep\Light.Example\obj\Debug\Light.Example.csprojResolveAssemblyReference.cache
+E:\Projects\Net.Light.Framework\00_Rep\Light.Example\obj\Debug\Light.Example.Form1.resources
+E:\Projects\Net.Light.Framework\00_Rep\Light.Example\obj\Debug\Light.Example.Properties.Resources.resources
+E:\Projects\Net.Light.Framework\00_Rep\Light.Example\obj\Debug\Light.Example.Resources.ControlResources.WinFormResource.resources
+E:\Projects\Net.Light.Framework\00_Rep\Light.Example\obj\Debug\Light.Example.Resources.MessageResources.AppMessages.resources
+E:\Projects\Net.Light.Framework\00_Rep\Light.Example\obj\Debug\Light.Example.Source.Views.FrmShippers.resources
+E:\Projects\Net.Light.Framework\00_Rep\Light.Example\obj\Debug\Light.Example.csproj.GenerateResource.Cache
+E:\Projects\Net.Light.Framework\00_Rep\Light.Example\bin\Debug\Light.Example.exe.config
+E:\Projects\Git_Projects\Net.Light.Framework.Repo\Light.Example\obj\Debug\Light.Example.csprojAssemblyReference.cache
+E:\Projects\Git_Projects\Net.Light.Framework.Repo\Light.Example\obj\Debug\Light.Example.Form1.resources
+E:\Projects\Git_Projects\Net.Light.Framework.Repo\Light.Example\obj\Debug\Light.Example.Properties.Resources.resources
+E:\Projects\Git_Projects\Net.Light.Framework.Repo\Light.Example\obj\Debug\Light.Example.Resources.ControlResources.WinFormResource.resources
+E:\Projects\Git_Projects\Net.Light.Framework.Repo\Light.Example\obj\Debug\Light.Example.Resources.MessageResources.AppMessages.resources
+E:\Projects\Git_Projects\Net.Light.Framework.Repo\Light.Example\obj\Debug\Light.Example.Source.Views.FrmShippers.resources
+E:\Projects\Git_Projects\Net.Light.Framework.Repo\Light.Example\obj\Debug\Light.Example.csproj.GenerateResource.cache
+E:\Projects\Git_Projects\Net.Light.Framework.Repo\Light.Example\obj\Debug\Light.Example.csproj.CoreCompileInputs.cache
